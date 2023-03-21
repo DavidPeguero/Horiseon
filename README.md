@@ -1,7 +1,7 @@
 # Horiseon SEO 
 
 ![image](./assets/images/01-html-css-git-homework-demo.png)
-Visit [here](https://davidpeguero.github.io/mod1-seo-optimization/)
+Visit [here](https://davidpeguero.github.io/Horiseon/)
 
 ## Description
 
