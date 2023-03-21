@@ -1,5 +1,8 @@
 # Horiseon SEO 
 
+![image](./assets/images/01-html-css-git-homework-demo.png)
+Visit [here](https://davidpeguero.github.io/mod1-seo-optimization/)
+
 ## Description
 
 This is the module 1 challenge which to meet the following requirements given an non-SEO optimized page:
